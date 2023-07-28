@@ -27,3 +27,12 @@ Instale o RepoViewer pra mudar como quiser.
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+
+
+## Funcionalidades
+- [x]  Temas dark e light
+- [x]  Navegação entre pastas.
+- [ ]  Melhoras no estilo.
+- [ ]  Navegação para trás entre as pastas.
+- [ ]  Exibição do caminho.
+

@@ -71,7 +71,7 @@ export default function RepoViewContent() {
                     href={file.download_url}
                     download={file.name}
                   >
-                    <Button variant="outline" size="icon" className="w-8 h-8">
+                    <Button variant="outline" size="icon" className="w-6 h-6">
                       <DownloadIcon className="h-4 w-4" />
                     </Button>
                   </Link>

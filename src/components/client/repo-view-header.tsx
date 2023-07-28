@@ -51,7 +51,7 @@ export default function RepoViewHeader() {
   };
 
   return (
-    <header className="bg-zinc-100 w-full h-12 dark:bg-secondary flex items-center">
+    <header className="bg-zinc-200 w-full h-12 dark:bg-secondary flex items-center">
       <Select onValueChange={(option) => handleSelectChange(option)}>
         <SelectTrigger className="w-[220px] h-8 ml-3">
           <SelectValue placeholder="Selecione o repositório..." />

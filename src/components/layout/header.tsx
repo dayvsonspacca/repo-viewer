@@ -7,8 +7,7 @@ import { LinkedInLogoIcon, GitHubLogoIcon } from "@radix-ui/react-icons";
 
 export default function Header() {
   return (
-    <header className="bg-zinc-100 transition-all bg-card shadow-sm dark:shadow-sm dark:shadow-primary-foreground w-screen h-12 flex items-center justify-between">
-      <div className="font-bold text-2xl ml-5 transition-all">
+    <header className="bg-zinc-200 dark:bg-secondary transition-all bg-card shadow-sm dark:shadow-sm dark:shadow-primary-foreground w-screen h-12 flex items-center justify-between">      <div className="font-bold text-2xl ml-5 transition-all">
         <span className="text-sky-500 transition-all">Repo</span>Viewer
       </div>
 

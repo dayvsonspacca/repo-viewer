@@ -29,10 +29,10 @@ Instale o RepoViewer pra mudar como quiser.
 - ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 
-## Funcionalidades
-- [x]  Temas dark e light
-- [x]  Navegação entre pastas.
-- [ ]  Melhoras no estilo.
-- [ ]  Navegação para trás entre as pastas.
-- [ ]  Exibição do caminho.
 
+## Funcionalidades
+- ✔  Temas dark e light
+- ✔  Navegação entre pastas.
+- ❌  Melhoras no estilo.
+- ❌  Navegação para trás entre as pastas.
+- ❌  Exibição do caminho.
